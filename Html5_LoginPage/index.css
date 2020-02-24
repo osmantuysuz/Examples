@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #eee url(images/bg.png) 0 0 no-repeat;
+    color: #585858;
+}
+
+.login-wrapper{
+    box-sizing: border-box;
+    width: 400px;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color:rgba(255,255,255, 0.3);
+    border-radius:5px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+
+.login-wrapper .inner{
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    background-color: rgb(230, 230, 230);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.login-wrapper .inner h2 {
+    margin: 0;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-bottom: solid 1px #ddd;
+}
+
+.login-wrapper .inner .field{
+    margin-bottom: 10px;
+}
+
+.login-wrapper .inner .field label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.login-wrapper .inner .field input[type="text"],
+.login-wrapper .inner .field input[type="password"]{
+    display: block;
+    box-sizing: border-box;
+    padding: 10px;
+    width: 100%;
+    border: 2px solid #ddd;
+    outline: none !important;
+}
+
+.login-wrapper .inner .form{
+    margin-bottom: 15px;
+}
+
+/* Float Clear Fix*/
+.login-wrapper .inner .additional::after{
+    content: '';
+    overflow: hidden;
+    clear: both;
+    display: block;
+}
+
+.login-wrapper .inner .additional .field.forgetpassword a{
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+
+.login-wrapper .inner .additional .field.forgetpassword a:hover{
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+
+.login-wrapper .inner .additional .field.remember{
+    float: left;
+    width: 50%;  
+}
+
+.login-wrapper .inner .additional .field.remember label{
+    display: inline-block;
+}
+
+.login-wrapper .inner .buttons button{
+    border:0 none;
+    width: 100%;
+    font-size: 100%;
+    padding: 10px;
+    margin: 0px;
+    background-color: crimson;
+    outline: none !important;
+}
+
+.login-wrapper .inner .buttons button:active{
+    box-shadow: inset 0px 0px 10px rgba(0,0,0, 0.8);
+    font-size: 16px;
+    padding: 11px;
+}
