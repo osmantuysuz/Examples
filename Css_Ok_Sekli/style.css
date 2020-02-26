@@ -1,0 +1,39 @@
+.prototurk{
+    margin: 15px;
+    background: #ddd;
+    padding: 5px 10px;
+    border-radius: 3px;
+    display: inline-block;
+    position: relative;
+}
+
+.prototurk:before{
+    content: '';
+    border: 8px solid transparent;
+    position: absolute;
+} 
+
+.prototurk.yukari:before{
+    border-bottom-color: #ddd;
+    top: -16px;
+    right: 10px;
+}
+
+.prototurk.asagi:before{
+    border-top-color: #ddd;
+    bottom: -16px;
+    right: 10px;
+}
+
+.prototurk.sola:before{
+    border-right-color: #ddd;
+    top: 7px;
+    left: -16px;
+}
+
+.prototurk.saga:before{
+    border-left-color: #ddd;
+    top: 7px;
+    right: -16px;
+}
+
