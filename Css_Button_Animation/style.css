@@ -1,0 +1,28 @@
+a{
+    background: #4527A0;
+    color: #fff;
+    font: bold 14px/30px Arial;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    overflow: hidden;
+
+}
+
+a::before{
+    content: attr(data-hover);
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    height: 30px;
+    width: 100%;
+    background: #000;
+    transition: 250ms top;
+}
+
+a:hover::before{
+    top: 0px;
+}
