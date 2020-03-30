@@ -1,9 +1,0 @@
-E:\YAZILIM\izleveogren\isealim\isealim\bin\Debug\isealim.exe.config
-E:\YAZILIM\izleveogren\isealim\isealim\bin\Debug\isealim.exe
-E:\YAZILIM\izleveogren\isealim\isealim\bin\Debug\isealim.pdb
-E:\YAZILIM\izleveogren\isealim\isealim\obj\Debug\isealim.csprojAssemblyReference.cache
-E:\YAZILIM\izleveogren\isealim\isealim\obj\Debug\isealim.Form1.resources
-E:\YAZILIM\izleveogren\isealim\isealim\obj\Debug\isealim.Properties.Resources.resources
-E:\YAZILIM\izleveogren\isealim\isealim\obj\Debug\isealim.csproj.GenerateResource.cache
-E:\YAZILIM\izleveogren\isealim\isealim\obj\Debug\isealim.exe
-E:\YAZILIM\izleveogren\isealim\isealim\obj\Debug\isealim.pdb
