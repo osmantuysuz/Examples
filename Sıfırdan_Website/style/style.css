@@ -1,0 +1,335 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: #eee;
+}
+
+.banner{
+    width: 100%;
+    height: 120px;
+    background: #f4743c;
+}
+
+.banner-binlik{
+    width: 1000px;
+    height: 120px;
+    margin: 0px auto;
+}
+
+.banner-sol{
+    width: 500px;
+    height: 120px;
+    float: left;
+}
+
+.banner-sag{
+    width: 500px;
+    height: 120px;
+    float: right;
+    text-align: right;
+    line-height: 120px;
+}
+
+.logo{
+    height: 120px;
+}
+
+.temizle{
+    width: 100%;
+    clear: both;
+}
+
+.sosyal-medya-icon{
+    width: 40px;
+    transition: 0.3s;
+}
+
+.sosyal-medya-icon:hover{
+    width: 50px;
+    cursor: pointer;
+}
+
+.menu{
+    width: 100%;
+    height: 45px;
+    background: #d7682b;
+}
+
+.menu-tab{
+    width: 100px;
+    height: 45px;
+    display: inline-block;
+    line-height: 45px;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 17px;
+    letter-spacing: 1px;
+    color: #eeaca6;
+    transition: 0.2s;
+}
+
+.menu-tab:hover{
+    color: #fff;
+    cursor: pointer;
+    background: #c15525;
+
+}
+
+.menu-binlik{
+    width: 1000px;
+    height: 45px;
+    margin: 0px auto;
+}
+
+.icerik{
+    width: 1000px;
+    height: auto;
+    margin: 0px auto;
+}
+
+.icerik-sol{
+    width: 670px;
+    height: auto;
+    background: #e9e3e3;
+    float: left;
+    padding: 15px;
+}
+
+.icerik-sag{
+    width: 300px;
+    margin-bottom: 50px;
+    background:#eee;
+    float: right;
+}
+
+.makale{
+    width: 100%;
+    height: auto;
+    border: 1px solid #cccccc;
+    background-color: #ffffff;
+    margin-bottom: 15px;
+}
+
+.makale-resim{
+    margin: 15px;
+    height: 150px;
+    float: left;
+    width: 280px;
+}
+
+.makale-baslik{
+    margin-top: 15px;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #d72f32;
+    cursor: pointer;
+}
+
+.makale-yazi{
+    margin-top: 15px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+.onceki{
+    float: left;
+}
+
+.sonraki{
+    float: right
+}
+
+.on-son-ort{
+    width: 95px;
+    height: 45px;
+    background: #f4743c;
+    padding: 0px 8px;
+    text-align: center;
+    line-height: 45px;
+    cursor: pointer;
+    font-size: 17px;
+    color: #eee;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 15px;
+    letter-spacing: 1px;
+    transition: 0.4s;
+}
+
+.on-son-ort:hover{
+    background-color: #d7602b;
+}
+
+.arama-motoru{
+    float: right;
+    margin-top: 15px;
+}
+
+.textbox-tasarim{
+    width: 180px;
+    height: 27px;
+    border-radius: 4px 0px 0px 4px;
+    border: solid 1px #d7602b;
+    outline: none;
+    padding: 0px 5px;
+}
+
+.buton-tasarimi{
+    width: 35px;
+    height: 29px;
+    border-radius: 0px 4px 4px 0px;
+    outline: none;
+    border: solid 1px #d7602b;
+    cursor: pointer;
+    margin: -5px;
+    background: #d7602b;
+}
+
+.etiket-havuzu{
+    float: left;
+    margin-top: 25px;
+    margin-left: 75px;
+    width: 226px;
+}
+
+.etiket-havuzu-baslik{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color: #c32123;
+    border-bottom: 2px solid #c32123;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+}
+
+.etiket{
+    display: inline-block;
+    background: #ffffff;
+    padding: 5px 8px ;
+    margin-bottom: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 4px;
+    border: 1px solid #d4d4d4;
+    color: #666666;
+}
+
+.etiket:hover{
+    cursor: pointer;
+    color: #000000;
+    border: 1px solid #a4a4a4;
+}
+
+.populer-makaleler-kapsul{
+    float: left;
+    margin-top: 25px;
+    margin-left: 75px;
+    width: 206px;
+    margin-bottom: -25px;
+}
+
+.populer-makaleler{
+    padding: 10px;
+    background: #ffffff;
+    margin-top: 15px;
+    border: 1px solid #d1d1d1;
+}
+
+.sag-makale-baslik{
+    margin-top: 8px;
+    font-size: 16px;
+}
+
+.populer-makaleler-baslik{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color: #c32123;
+    border-bottom: 2px solid #c32123;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+}
+
+.numaralandirma{
+    width: 40px;
+    height: 40px;
+    background: #c32123;
+    color: #e0d6d6;
+    position: absolute;
+    text-align: center;
+    line-height: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border-right: 2px solid #ffffff;
+    border-bottom: 2px solid #ffffff;
+}
+
+.alt-kisim{ 
+    width: 100%;
+    height: 200px;
+    background-color: #09151d;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ust-alt-kisim{
+    width: 100%;
+    height: 50px;
+    background-color: #050e15;
+    line-height: 50px;
+    font-size: 15px;
+    color: #969696;
+}
+
+.alt-kisim-sol{
+    float: left;
+}
+
+.alt-kisim-sag{
+    float: right;
+    color: #fff;
+    text-align: right;
+    padding-right: 15px;
+}
+
+.en-alt-menu{
+    margin-right: 15px;
+    margin-left: 15px;
+    display: inline-block;
+}
+
+
+.en-alt-menu:hover{
+    cursor: pointer;
+    color: #fff;
+}
+
+.yukari-cik a{
+    text-decoration: none;
+    color: #969696;
+}
+
+.yukari-cik a:hover{
+    color: white;
+}
+.alt-alt-kisim{
+    text-align: center;
+}
+
+.makale-detay-baslik{
+    font-size: 28px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #272020;
+}
+
+.makale-detay-kapak{
+    width: 100%;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.makale-icerik-kapsul{
+    font-size: 20px;
+}
+
+.makale-detay-aciklama{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-top: 20px;
+}
