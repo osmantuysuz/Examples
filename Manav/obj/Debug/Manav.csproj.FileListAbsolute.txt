@@ -1,0 +1,10 @@
+E:\YAZILIM\bora kaşmer\c#\Manav\bin\Debug\Manav.exe.config
+E:\YAZILIM\bora kaşmer\c#\Manav\bin\Debug\Manav.exe
+E:\YAZILIM\bora kaşmer\c#\Manav\bin\Debug\Manav.pdb
+E:\YAZILIM\bora kaşmer\c#\Manav\obj\Debug\Manav.csprojAssemblyReference.cache
+E:\YAZILIM\bora kaşmer\c#\Manav\obj\Debug\Manav.Form1.resources
+E:\YAZILIM\bora kaşmer\c#\Manav\obj\Debug\Manav.Properties.Resources.resources
+E:\YAZILIM\bora kaşmer\c#\Manav\obj\Debug\Manav.csproj.GenerateResource.cache
+E:\YAZILIM\bora kaşmer\c#\Manav\obj\Debug\Manav.csproj.CoreCompileInputs.cache
+E:\YAZILIM\bora kaşmer\c#\Manav\obj\Debug\Manav.exe
+E:\YAZILIM\bora kaşmer\c#\Manav\obj\Debug\Manav.pdb
