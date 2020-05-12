@@ -1,0 +1,10 @@
+E:\YAZILIM\bora kaşmer\c#\YasimiBul\bin\Debug\YasimiBul.exe.config
+E:\YAZILIM\bora kaşmer\c#\YasimiBul\bin\Debug\YasimiBul.exe
+E:\YAZILIM\bora kaşmer\c#\YasimiBul\bin\Debug\YasimiBul.pdb
+E:\YAZILIM\bora kaşmer\c#\YasimiBul\obj\Debug\YasimiBul.csprojAssemblyReference.cache
+E:\YAZILIM\bora kaşmer\c#\YasimiBul\obj\Debug\YasimiBul.Form1.resources
+E:\YAZILIM\bora kaşmer\c#\YasimiBul\obj\Debug\YasimiBul.Properties.Resources.resources
+E:\YAZILIM\bora kaşmer\c#\YasimiBul\obj\Debug\YasimiBul.csproj.GenerateResource.cache
+E:\YAZILIM\bora kaşmer\c#\YasimiBul\obj\Debug\YasimiBul.csproj.CoreCompileInputs.cache
+E:\YAZILIM\bora kaşmer\c#\YasimiBul\obj\Debug\YasimiBul.exe
+E:\YAZILIM\bora kaşmer\c#\YasimiBul\obj\Debug\YasimiBul.pdb
