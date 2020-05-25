@@ -1,0 +1,10 @@
+C:\Users\osman\Desktop\GoldenRatio\bin\Debug\GoldenRatio.exe.config
+C:\Users\osman\Desktop\GoldenRatio\bin\Debug\GoldenRatio.exe
+C:\Users\osman\Desktop\GoldenRatio\bin\Debug\GoldenRatio.pdb
+C:\Users\osman\Desktop\GoldenRatio\obj\Debug\GoldenRatio.csprojAssemblyReference.cache
+C:\Users\osman\Desktop\GoldenRatio\obj\Debug\GoldenRatio.Form1.resources
+C:\Users\osman\Desktop\GoldenRatio\obj\Debug\GoldenRatio.Properties.Resources.resources
+C:\Users\osman\Desktop\GoldenRatio\obj\Debug\GoldenRatio.csproj.GenerateResource.cache
+C:\Users\osman\Desktop\GoldenRatio\obj\Debug\GoldenRatio.csproj.CoreCompileInputs.cache
+C:\Users\osman\Desktop\GoldenRatio\obj\Debug\GoldenRatio.exe
+C:\Users\osman\Desktop\GoldenRatio\obj\Debug\GoldenRatio.pdb
