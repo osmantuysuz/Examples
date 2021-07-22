@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+    <!--
+        JavaScript kullanmadan Html + Css yardımı ile focus-within
+        kullanarak açılır kapanır alanlar yapmak.
+    -->
+
+    <div class="dropdown-container">
+        <button>Code</button>
+        <nav tabindex="1">
+            <ul>
+                <li>
+                    <a href="#">Menü 1</a>
+                </li>
+                <li>
+                    <a href="#">Menü 2</a>
+                </li>
+                <li>
+                    <a href="#">Menü 3</a>
+                </li>
+            </ul>
+            <label for="close-dropdown">
+                Kapat
+            </label>
+        </nav>    
+    </div>
+
+    <div class="dropdown-container">
+        <button>Code</button>
+        <nav tabindex="1">
+            <ul>
+                <li>
+                    <a href="#">Menü 1</a>
+                </li>
+                <li>
+                    <a href="#">Menü 2</a>
+                </li>
+                <li>
+                    <a href="#">Menü 3</a>
+                </li>
+            </ul>
+            <label for="close-dropdown">
+                Kapat
+            </label>
+        </nav>    
+    </div>
+
+    <button id="close-dropdown"></button>
+</body>
+</html>
