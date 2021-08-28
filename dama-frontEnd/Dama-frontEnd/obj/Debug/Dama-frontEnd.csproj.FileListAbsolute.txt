@@ -1,0 +1,10 @@
+C:\Users\osman\Desktop\dama-frontEnd\Dama-frontEnd\Dama-frontEnd\bin\Debug\Dama-frontEnd.exe.config
+C:\Users\osman\Desktop\dama-frontEnd\Dama-frontEnd\Dama-frontEnd\bin\Debug\Dama-frontEnd.exe
+C:\Users\osman\Desktop\dama-frontEnd\Dama-frontEnd\Dama-frontEnd\bin\Debug\Dama-frontEnd.pdb
+C:\Users\osman\Desktop\dama-frontEnd\Dama-frontEnd\Dama-frontEnd\obj\Debug\Dama-frontEnd.csproj.AssemblyReference.cache
+C:\Users\osman\Desktop\dama-frontEnd\Dama-frontEnd\Dama-frontEnd\obj\Debug\Dama_frontEnd.Form1.resources
+C:\Users\osman\Desktop\dama-frontEnd\Dama-frontEnd\Dama-frontEnd\obj\Debug\Dama_frontEnd.Properties.Resources.resources
+C:\Users\osman\Desktop\dama-frontEnd\Dama-frontEnd\Dama-frontEnd\obj\Debug\Dama-frontEnd.csproj.GenerateResource.cache
+C:\Users\osman\Desktop\dama-frontEnd\Dama-frontEnd\Dama-frontEnd\obj\Debug\Dama-frontEnd.csproj.CoreCompileInputs.cache
+C:\Users\osman\Desktop\dama-frontEnd\Dama-frontEnd\Dama-frontEnd\obj\Debug\Dama-frontEnd.exe
+C:\Users\osman\Desktop\dama-frontEnd\Dama-frontEnd\Dama-frontEnd\obj\Debug\Dama-frontEnd.pdb
